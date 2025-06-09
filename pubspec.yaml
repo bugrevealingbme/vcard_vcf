@@ -10,10 +10,10 @@ dependencies:
   flutter:
     sdk: flutter
   validators: ^3.0.0
-  path_provider: ^2.0.15
-  path: ^1.8.3
-  intl: ^0.19.0
-  meta: ^1.9.1
+  path_provider: ^2.1.5
+  path: ^1.9.1
+  intl: ^0.20.2
+  meta: ^1.17.0
 
 platforms:
   android:
